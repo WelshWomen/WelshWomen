@@ -5,5 +5,4 @@
 - 🚴🏼‍♀️ Cyclist on Strava
 - ❄️ Born and raised in the North
 - 🍺 Beer lover
-- 🧀 Addicted to Welsh
-- 🌱 I’m currently learning Python and SQL
+- 🧀 Addicted to french Welsh
